@@ -1,0 +1,16 @@
+
+
+######################
+# Node
+######################
+node/
+node_tmp/
+node_modules/
+
+
+######################
+# IDE InteliJ Idea
+######################
+.idea
+
+public/bundle.js
